@@ -6,21 +6,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksiy-surovtsev/)](https://www.linkedin.com/in/oleksiy-surovtsev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.joleksiysurovtsev@gmail.com)](mailto:defcon.joleksiysurovtsev@gmail.com)
 
-✨  About Me
+## ✨  About Me
 ### I am a Java/Kotlin Developer with 2+ years of experience in developing enterprise applications.
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,html,docker,git,gitlab,gradle,idea,jenkins,kubernetes,md,mysql,postgres,maven,kafka&perline=8)](https://skillicons.dev)
 
 
-## My Projects
+## 🖥️ My Projects
 
  <p align="left">
     <a href="https://github.com/joleksiysurovtsev/SQL-quick-start-guide"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=SQL-quick-start-guide&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SQL-quick-start-guide">     </a>
     <a href="https://github.com/joleksiysurovtsev/Spring-microservices-in-action"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=Spring-microservices-in-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
  </p>
 
-## My statistic
+## 📈 My statistic
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=joleksiysurovtsev&show_icons=true&theme=dracula" />
 </a>
