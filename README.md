@@ -13,19 +13,22 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,html,docker,git,gitlab,gradle,idea,jenkins,kubernetes,md,mysql,postgres,maven,kafka&perline=8)](https://skillicons.dev)
 
 
+## My Top Open Source Projects
 
+ <p align="left">
+    <a href="https://github.com/joleksiysurovtsev/SQL-quick-start-guide"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=SQL-quick-start-guide&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SQL-quick-start-guide">     </a>
+    <a href="https://github.com/joleksiysurovtsev/Spring-microservices-in-action"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=Spring-microservices-in-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
+ </p>
 
-<!--
-**joleksiysurovtsev/joleksiysurovtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My statistic
+<p align="left">
+    <a href="https://github.com/joleksiysurovtsev/github-readme-stats">
+        <img width="370"
+             src="https://github-readme-stats.vercel.app/api?username=joleksiysurovtsev&show_icons=true&theme=dracula"
+             > </a> <br>
+    <a href="https://github.com/joleksiysurovtsev/github-readme-stats">
+        <img width="370"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=joleksiysurovtsev&layout=compact&theme=dracula"
+             > </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
