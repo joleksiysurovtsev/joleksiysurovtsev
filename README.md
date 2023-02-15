@@ -9,21 +9,8 @@
 ✨  About Me
 ### I am a Java/Kotlin Developer with 2+ years of experience in developing enterprise applications.
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
-[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://www.github.com/)
-[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://www.gitlab.com//)
-[![My Skills](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
-[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/ru-ru/idea/)
-[![My Skills](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
-[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://www.kubernetes.io/)
-[![My Skills](https://skillicons.dev/icons?i=md)]()
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,html,docker,git,gitlab,gradle,idea,jenkins,kubernetes,md,mysql,postgres,maven,kafka&perline=8)](https://skillicons.dev)
 
 
 
