@@ -21,11 +21,9 @@
  </p>
 
 ## My statistic
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="370" height="150" src="https://github-readme-stats.vercel.app/api?username=joleksiysurovtsev&show_icons=true&theme=dracula" />
+  <img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=joleksiysurovtsev&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" width="370" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joleksiysurovtsev&layout=compact&theme=dracula" />
+  <img align="left" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joleksiysurovtsev&layout=compact&theme=dracula" />
 </a>
