@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,html,docker,git,gitlab,gradle,idea,jenkins,kubernetes,md,mysql,postgres,maven,kafka&perline=8)](https://skillicons.dev)
 
 
-## My Top Open Source Projects
+## My Projects
 
  <p align="left">
     <a href="https://github.com/joleksiysurovtsev/SQL-quick-start-guide"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=SQL-quick-start-guide&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SQL-quick-start-guide">     </a>
