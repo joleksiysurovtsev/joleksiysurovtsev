@@ -21,14 +21,11 @@
  </p>
 
 ## My statistic
-<p align="left">
-    <a href="https://github.com/joleksiysurovtsev/github-readme-stats">
-        <img width="370"
-             src="https://github-readme-stats.vercel.app/api?username=joleksiysurovtsev&show_icons=true&theme=dracula"
-             > </a> <br>
-    <a href="https://github.com/joleksiysurovtsev/github-readme-stats">
-        <img width="370"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=joleksiysurovtsev&layout=compact&theme=dracula"
-             > </a>
-</p>
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="370" height="150" src="https://github-readme-stats.vercel.app/api?username=joleksiysurovtsev&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" width="370" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joleksiysurovtsev&layout=compact&theme=dracula" />
+</a>
