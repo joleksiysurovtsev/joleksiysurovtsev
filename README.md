@@ -10,7 +10,7 @@
 ### I am a Java/Kotlin Developer with 2+ years of experience in developing enterprise applications.
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,html,docker,git,gitlab,gradle,idea,jenkins,kubernetes,md,mysql,postgres,maven,kafka&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,html,css,javascript,docker,git,gitlab,gradle,idea,jenkins,kubernetes,md,mysql,postgres,maven,kafka&perline=9)](https://skillicons.dev)
 
 
 ## 🖥️ My Projects
