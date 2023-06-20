@@ -30,3 +30,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joleksiysurovtsev&layout=compact&theme=dracula" />
 </a>
+
+
+ <p align="left">
+<a href="https://www.buymeacoffee.com/oleksiysur" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
