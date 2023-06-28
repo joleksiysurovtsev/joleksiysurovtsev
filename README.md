@@ -23,6 +23,9 @@
  </p>
 
 
+## 📰 My articles
+https://medium.com/@joleksiysurovtsev/gradle-version-catalog-simplifying-dependency-management-between-independent-projects-4a8e8dd2cbe0
+
 
 ## 📈 My statistic
   
