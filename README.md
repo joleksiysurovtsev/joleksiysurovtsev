@@ -24,7 +24,8 @@
 
 
 ## 📰 My articles
-https://medium.com/@joleksiysurovtsev/gradle-version-catalog-simplifying-dependency-management-between-independent-projects-4a8e8dd2cbe0
+<a href="https://medium.com/@joleksiysurovtsev/gradle-version-catalog-simplifying-dependency-management-between-independent-projects-4a8e8dd2cbe0"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*0jRG4hrnn18WSjxE8A5AHA.png" alt="Description of image" width="300" style="float: left; margin: 10px;">
+</a>
 
 
 ## 📈 My statistic
