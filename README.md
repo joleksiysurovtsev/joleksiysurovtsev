@@ -2,18 +2,20 @@
 
 ## 🔗 &nbsp;**Connect with me**
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/joleksiysurovtsev/)](https://github.com/joleksiysurovtsev/) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/joleksiysurovtsev/)](https://github.com/joleksiysurovtsev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleksiy-surovtsev/)](https://www.linkedin.com/in/oleksiy-surovtsev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.joleksiysurovtsev@gmail.com)](mailto:defcon.joleksiysurovtsev@gmail.com)
 
-## ✨  About Me
+## ✨ About Me
+
 ### I am a Java/Kotlin Developer with 2+ years of experience in developing enterprise applications.
+
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,html,css,javascript,docker,git,gitlab,gradle,idea,jenkins,kubernetes,md,mysql,postgres,maven,kafka&perline=9)](https://skillicons.dev)
 
-
 ## 🖥️ My Projects
+
  <p align="left">
     <a href="https://github.com/joleksiysurovtsev/currency-bot"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=currency-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
       <a href="https://github.com/joleksiysurovtsev/gradle-version-catalog-example"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=gradle-version-catalog-example&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
@@ -23,18 +25,22 @@
     <a href="https://github.com/joleksiysurovtsev/Spring-microservices-in-action"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=Spring-microservices-in-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
  </p>
 
-
-
 ## 📰 My articles
+
 <a href="https://medium.com/@joleksiysurovtsev/gradle-version-catalog-simplifying-dependency-management-between-independent-projects-4a8e8dd2cbe0"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*0jRG4hrnn18WSjxE8A5AHA.png" alt="Description of image" width="300" style="float: left; margin: 10px;">
 </a>
 
+---
+
 ## 📝 Self-study
-<a href="https://medium.com/@joleksiysurovtsev/gradle-version-catalog-simplifying-dependency-management-between-independent-projects-4a8e8dd2cbe0"> <img src=" https://m.media-amazon.com/images/I/310Qz+F35tL.jpg" alt="Description of image" width="300" style="float: left; margin: 10px;">
-</a>
+
+ <p align="left">
+    <a href="https://github.com/joleksiysurovtsev/Kotlin-Programming-The-Big-Nerd-Ranch-Guide-by-Josh-Skeen-and-David-Greenhalgh">
+    <img width="270" src="https://github.com/joleksiysurovtsev/Kotlin-Programming-The-Big-Nerd-Ranch-Guide-by-Josh-Skeen-and-David-Greenhalgh/blob/main/img/title.png" alt="Kotlin-Programming">     </a>
+ </p>
 
 ## 📈 My statistic
-  
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joleksiysurovtsev&theme=dracula) <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
