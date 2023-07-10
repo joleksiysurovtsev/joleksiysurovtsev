@@ -36,7 +36,7 @@
 
  <p align="left">
     <a href="https://github.com/joleksiysurovtsev/Kotlin-Programming-The-Big-Nerd-Ranch-Guide-by-Josh-Skeen-and-David-Greenhalgh">
-    <img width="270" src="https://github.com/joleksiysurovtsev/Kotlin-Programming-The-Big-Nerd-Ranch-Guide-by-Josh-Skeen-and-David-Greenhalgh/blob/main/img/title.png" alt="Kotlin-Programming">     </a>
+    <img width="170" src="https://github.com/joleksiysurovtsev/Kotlin-Programming-The-Big-Nerd-Ranch-Guide-by-Josh-Skeen-and-David-Greenhalgh/blob/main/img/title.png" alt="Kotlin-Programming">     </a>
  </p>
 
 ## 📈 My statistic
