@@ -16,14 +16,25 @@
 
 ## 🖥️ My Projects
 
- <p align="left">
-    <a href="https://github.com/joleksiysurovtsev/currency-bot"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=currency-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
-      <a href="https://github.com/joleksiysurovtsev/gradle-version-catalog-example"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=gradle-version-catalog-example&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
- </p>
- <p align="left">
+<p align="left">
+ <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="telegram" align="left">
+<a href="https://github.com/joleksiysurovtsev/currency-bot"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=currency-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
+</p> 
+<p align="left" >
+    <img width="48" src="https://user-images.githubusercontent.com/5147537/54070671-0a173780-4263-11e9-8946-09ac0e37d8c6.png" alt="Slack webhooks" align="left">
+</p>
+<p align="left">
+   <a href="https://github.com/joleksiysurovtsev/SpringBootSlack"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=SpringBootSlack&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SpringBootSlack">     </a>
+</p>
+
+<p align="left">
     <a href="https://github.com/joleksiysurovtsev/SQL-quick-start-guide"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=SQL-quick-start-guide&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SQL-quick-start-guide">     </a>
     <a href="https://github.com/joleksiysurovtsev/Spring-microservices-in-action"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=Spring-microservices-in-action&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
- </p>
+</p>
+
+<p align="left">
+  <a href="https://github.com/joleksiysurovtsev/gradle-version-catalog-example"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=gradle-version-catalog-example&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">   </a>
+</p>
 
 ## 📰 My articles
 
