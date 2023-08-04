@@ -44,6 +44,10 @@
 
 ## 📝 Self-study
 
+<p align="left">
+   <a href="https://github.com/joleksiysurovtsev/learning-resources"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joleksiysurovtsev&repo=learning-resources&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learning-resources">     </a>
+</p>
+
  <p align="left">
     <a href="https://github.com/joleksiysurovtsev/Kotlin-Programming-The-Big-Nerd-Ranch-Guide-by-Josh-Skeen-and-David-Greenhalgh">
     <img width="170" src="https://github.com/joleksiysurovtsev/Kotlin-Programming-The-Big-Nerd-Ranch-Guide-by-Josh-Skeen-and-David-Greenhalgh/blob/main/img/title.png" alt="Kotlin-Programming">     </a>
