@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-### I am a Java/Kotlin Developer with 2+ years of experience in developing enterprise applications.
+### I am a Java/Kotlin Developer with 4+ years of experience in developing enterprise applications.
 
 ### 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
 
